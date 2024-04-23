@@ -3,4 +3,3 @@ mediapipe
 numpy
 scikit-learn
 streamlit
-libgl1-mesa-glx 
