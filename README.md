@@ -1,7 +1,3 @@
-Sure! Here's a README template for your Sign Language to Text project:
-
----
-
 # Sign Language to Text Recognition
 
 This project aims to recognize sign language gestures captured through a webcam and translate them into text using machine learning techniques.
