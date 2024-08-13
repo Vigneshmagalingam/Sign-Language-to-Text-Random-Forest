@@ -58,6 +58,4 @@ The dataset used to train the machine learning model consists of hand gesture im
 
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
----
 
-Feel free to customize this template according to your project's specific details and requirements.
